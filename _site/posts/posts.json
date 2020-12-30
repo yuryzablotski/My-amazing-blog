@@ -15,5 +15,22 @@
     "preview": {},
     "last_modified": "2020-12-30T18:47:08+01:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2020-12-30-my-second-blog-postthis-one-will-be-really-good/",
+    "title": "My second blog post...this one will be really good :-)",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2020-12-30",
+    "categories": [],
+    "contents": "\nAdd some text here.\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n\n\n\n",
+    "preview": "posts/2020-12-30-my-second-blog-postthis-one-will-be-really-good/my-second-blog-postthis-one-will-be-really-good_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2020-12-30T19:12:00+01:00",
+    "input_file": "my-second-blog-postthis-one-will-be-really-good.utf8.md"
   }
 ]
