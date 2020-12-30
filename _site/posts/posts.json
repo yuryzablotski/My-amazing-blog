@@ -32,5 +32,39 @@
     "preview": "posts/2020-12-30-my-second-blog-postthis-one-will-be-really-good/my-second-blog-postthis-one-will-be-really-good_files/figure-html5/unnamed-chunk-1-1.png",
     "last_modified": "2020-12-30T19:12:00+01:00",
     "input_file": "my-second-blog-postthis-one-will-be-really-good.utf8.md"
+  },
+  {
+    "path": "posts/2020-12-30-third-post/",
+    "title": "third post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2020-12-30",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2020-12-30T19:17:47+01:00",
+    "input_file": "third-post.utf8.md"
+  },
+  {
+    "path": "posts/2020-12-30-post-number-4/",
+    "title": "post number 4",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2020-12-30",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2020-12-30T19:18:06+01:00",
+    "input_file": "post-number-4.utf8.md"
   }
 ]
